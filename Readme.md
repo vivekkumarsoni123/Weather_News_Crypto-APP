@@ -4,7 +4,7 @@ A modern, responsive dashboard that combines real-time cryptocurrency data with 
 
 ## Live Demo
 
-Visit the live dashboard at: [https://crypto-weather-dashboard.vercel.app](https://crypto-weather-dashboard.vercel.app)
+Visit the live dashboard at: [https://crypto-weather-dashboard.vercel.app]([https://crypto-weather-dashboard.vercel.app])
 
 ## Features
 
@@ -75,7 +75,7 @@ yarn install
 3. Create a `.env.local` file in the root directory and add your API keys:
 ```env
 NEXT_PUBLIC_WEATHER_API_KEY=your_openweathermap_api_key
-NEXT_PUBLIC_CRYPTO_API_KEY=your_coingecko_api_key
+NEXT_PUBLIC_CRYPTO_API_KEY=your_coinmarketcap_api_key
 NEXT_PUBLIC_NEWS_API_KEY=your_newsdata_api_key
 ```
 
