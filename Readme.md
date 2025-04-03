@@ -4,7 +4,7 @@ A modern, responsive dashboard that combines real-time cryptocurrency data with 
 
 ## Live Demo
 
-Visit the live dashboard at: [https://crypto-weather-dashboard.vercel.app]((https://crypto-weather-dashboard.vercel.app))
+Visit the live dashboard at: [https://crypto-weather-dashboard.vercel.app](https://crypto-weather-dashboard.vercel.app)
 
 ## Features
 
