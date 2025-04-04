@@ -172,9 +172,17 @@ crypto-weather-dashboard/
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+## Future Enhancements
+
+- **Portfolio Tracker**: Add a feature to track and manage cryptocurrency portfolios.
+- **Custom Alerts**: Enable users to set price or weather alerts.
+- **Localization**: Support multiple languages and regional settings.
+- **Advanced Analytics**: Provide deeper insights into cryptocurrency trends and weather patterns.
+- **Offline Mode**: Cache data for offline access.
+
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/yourusername/crypto-weather-dashboard/blob/main/LICENSE) file for details.
 
 ## Acknowledgments
 
@@ -182,4 +190,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [OpenWeatherMap](https://openweathermap.org/) for weather data
 - [NewsData.io](https://newsdata.io/) for news data
 - [shadcn/ui](https://ui.shadcn.com/) for UI components
-- [Recharts](https://recharts.org/) for charting library 
+- [Recharts](https://recharts.org/) for charting library
